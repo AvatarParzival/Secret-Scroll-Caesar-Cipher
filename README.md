@@ -32,23 +32,13 @@ Create a Python program that can encrypt and decrypt text using the Caesar ciphe
 
 ## 📸 Screenshots
 
-Replace the holders below with screenshots saved in the `screenshots/` folder.
+| Main interface | Image selected |
+| --- | --- |
+| ![Main interface](screenshots/main_interface.png) | ![Encrypted Message](screenshots/encrypted_message.png) |
 
-| Main interface | Encryption result | Decryption result |
-| --- | --- | --- |
-| **Screenshot holder**<br>`screenshots/main_interface.png` | **Screenshot holder**<br>`screenshots/encrypted_message.png` | **Screenshot holder**<br>`screenshots/decrypted_message.png` |
-
-### Required Screenshot Names
-
-1. `main_interface.png` — the application immediately after launch.
-2. `encrypted_message.png` — a message encrypted with a visible shift value.
-3. `decrypted_message.png` — the ciphertext restored to the original message.
-
-After adding the images, replace each holder in the table with the corresponding Markdown image, for example:
-
-```markdown
-![Secret Scroll main interface](screenshots/main_interface.png)
-```
+| Encrypted result |
+| --- |
+| ![Decrypted Message result](screenshots/decrypted_message.png) |
 
 ## 🧠 How the Caesar Cipher Works
 
